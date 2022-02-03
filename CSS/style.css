@@ -8,7 +8,10 @@ body {
   background-color: #8d8d8d;
 }
 .navbar-container {
+  top: 0;
   background-color: #262637;
+  position: sticky;
+  z-index: 2;
 }
 .about-container {
   background-color: #00bdbd;
@@ -27,4 +30,10 @@ body {
   width: 150px;
   height: 150px;
   border-radius: 50%;
+}
+.project-container {
+  background-color: #2bb3cd;
+}
+.form-container {
+  background-color: #474d5d;
 }
