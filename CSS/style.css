@@ -22,6 +22,9 @@ body {
 .bg-redtype {
   background-color: #fb857f;
 }
+.bg-redtype:hover {
+  color: black !important;
+}
 .redtype-color {
   color: #fb857f;
 }
@@ -36,4 +39,7 @@ body {
 }
 .form-container {
   background-color: #474d5d;
+}
+.inner-form {
+  background-color: #585f73;
 }
