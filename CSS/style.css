@@ -28,18 +28,34 @@ body {
 .redtype-color {
   color: #fb857f;
 }
-.circle {
+.circle-edu {
   background-color: #fb857f;
   width: 150px;
   height: 150px;
   border-radius: 50%;
 }
 .project-container {
-  background-color: #2bb3cd;
+  background-color: #2bb3dc;
 }
 .form-container {
   background-color: #474d5d;
 }
 .inner-form {
   background-color: #585f73;
+}
+.footer {
+  background-color: #2bb3dd;
+}
+.circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: white;
+  font-size: 40px;
+  text-align: center;
+  color: #2bb3dc;
+}
+.circle:hover {
+  background-color: #474d5d;
 }
